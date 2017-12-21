@@ -12,7 +12,7 @@ Contém o código do software StickmanDance, um bonequinho que meche os bracos d
 
 [LoopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html), respeitando os direitos autorais do software, respeitando o software somente para aprendizado sem fins comerciais. Utilizado para emular uma porta MIDI.
 
-[Reason](https://www.propellerheads.se/en/reason), respeitando os direitos autorais do software, respeitando somente a versão de avaliação gratuita com para aprendizado sem fins comerciais. Utilizado para sintetizar as notas músicais MIDI criadas pelo software WebMIDImage.
+[Reason](https://www.propellerheads.se/en/reason), respeitando os direitos autorais do software, utilizando somente a versão de avaliação gratuita com para aprendizado sem fins comerciais. Utilizado para sintetizar as notas músicais MIDI criadas pelo software WebMIDImage.
 
 [The MIDIBUS](https://github.com/sparks/themidibus), biblioteca utilizada respeitando os direitos autorais, utilizada somente para aprendizado sem fins comerciais. Utilizado para criar as notas MIDI.
 
