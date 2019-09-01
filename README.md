@@ -18,3 +18,5 @@ Contém o código do software StickmanDance, um bonequinho que meche os bracos d
 
 [Processing](https://processing.org/), respeitando os direitos autorais do software, utilizado somente para aprendizado sem fins comerciais. Ambiente de desenvolvimento utilizado na criação dos softwares, incluindo uma biblioteca interna de vídeo.
 
+O resultado pode ser conferido [aqui](https://www.youtube.com/watch?v=F3w1M_YEM7w&t=103s).
+
